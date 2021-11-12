@@ -1,0 +1,18 @@
+ERC report (28/10/2021 16:22:32, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(75.56 mm, 136.53 mm): Pin 2 (Input) of component CN1 is not driven (Net 7).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(156.21 mm, 128.91 mm): Pin 6 (Input) of component U2 is not driven (Net 8).
+ErrType(5): Conflict problem between pins. Severity: error
+    @(38.10 mm, 24.13 mm): Pin 1 (Power output) of component #FLG0102 is connected to 
+    @(19.68 mm, 25.40 mm): pin 1 (Power output) of component #FLG0104 (net 9).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(75.56 mm, 141.60 mm): Pin 4 (Input) of component CN1 is not driven (Net 10).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(75.56 mm, 144.14 mm): Pin 5 (Input) of component CN1 is not driven (Net 12).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(82.55 mm, 80.01 mm): Pin 35 (Input) of component U3 is not driven (Net 13).
+
+ ** ERC messages: 6  Errors 1  Warnings 5
